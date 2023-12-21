@@ -1,6 +1,5 @@
 package com.chadmiddleton.customerpoints;
 
-import lombok.Builder;
 import lombok.Data;
 
 import java.time.Month;
